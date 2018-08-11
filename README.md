@@ -1,3 +1,6 @@
+# Fork of Alexey's darknet repo which itself is a fork of PJR's original darknet.
+### Used for mVizn Pte. Ltd. internal deployments.
+
 # Yolo-v3 and Yolo-v2 for Windows and Linux
 ### (neural network for object detection)
 
