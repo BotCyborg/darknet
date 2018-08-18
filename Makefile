@@ -47,7 +47,7 @@ endif
 
 CC=gcc
 CPP=g++
-NVCC=nvcc -std=C++11
+NVCC=nvcc -std=c++11
 OPTS=-Ofast
 LDFLAGS= -lm -pthread 
 COMMON= 
